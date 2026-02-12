@@ -1,0 +1,9 @@
+ncverilog testbench.v alu.v +define+I0 +access+rw
+ncverilog testbench.v alu.v +define+I1 +access+rw
+ncverilog testbench.v alu.v +define+I2 +access+rw
+ncverilog testbench.v alu.v +define+I3 +access+rw
+ncverilog testbench.v alu.v +define+I4 +access+rw
+ncverilog testbench.v alu.v +define+I5 +access+rw
+ncverilog testbench.v alu.v +define+I6 +access+rw
+ncverilog testbench.v alu.v +define+I7 +access+rw
+ncverilog testbench.v alu.v +define+I8 +access+rw
